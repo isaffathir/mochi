@@ -1,4 +1,4 @@
-# Mochi - Android Hook
+# Mochi - Android Hook and Patches
 ## Installation
 * Download this github files and unzip it.
 * Download Android NDK, Revision 16b from: https://developer.android.com/ndk/downloads/older_releases
